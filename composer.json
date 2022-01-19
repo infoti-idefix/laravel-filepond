@@ -1,5 +1,5 @@
 {
-    "name": "rahulhaque/laravel-filepond",
+    "name": "dmalta/laravel-filepond",
     "description": "Dead simple Laravel backend support for FilePond",
     "keywords": [
         "filepond-laravel",
@@ -13,6 +13,11 @@
         {
             "name": "Rahul Haque",
             "email": "rahulhaque07@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Daniel Maltarollo",
+            "email": "daniel@maltarollo.net",
             "role": "Developer"
         }
     ],
