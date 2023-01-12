@@ -1,5 +1,5 @@
 {
-    "name": "dmalta/laravel-filepond",
+    "name": "infoti-idefix/laravel-filepond",
     "description": "Dead simple Laravel backend support for FilePond",
     "keywords": [
         "filepond-laravel",
@@ -18,6 +18,11 @@
         {
             "name": "Daniel Maltarollo",
             "email": "daniel@maltarollo.net",
+            "role": "Developer"
+        },
+        {
+            "name": "Maicon santos",
+            "email": "webmaicon@gmail.com",
             "role": "Developer"
         }
     ],

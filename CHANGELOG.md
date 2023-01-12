@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-filepond` will be documented in this file.
 
+## 1.4.10 - 2023-01-12
+
+- Added time() on name created files
+
 ## 1.4.8 - 2021-12-31
 
 - Added support for chunk upload with resume capability. ✨
