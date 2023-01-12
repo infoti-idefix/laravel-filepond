@@ -71,7 +71,7 @@ class Filepond extends AbstractFilepond
             $response = [];
             $fileponds = $this->getFieldModel();
             foreach ($fileponds as $index => $filepond) {
-                $to = $path.'-'.($index + 1);
+                $to = $path.'-'.($index + 1).time();
                 $response[] = $this->putFile($filepond, $to, $disk, $visibility);
             }
             return $response;
